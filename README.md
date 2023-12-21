@@ -1,4 +1,4 @@
-<p align="center"><a href="https://getteli.github.io/aia/" target="_blank"><img src="https://cdn.imgbin.com/7/7/24/imgbin-programming-python-logo-programming-language-computer-programming-xqpteKJWNdiDiTgRWG1kct1WX.jpg" width="200"></a></p>
+<p align="center"><a href="https://getteli.github.io/aia/" target="_blank"><img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo-1.png" width="200"></a></p>
 
 <h2 align="center">
     <b>Compare Sheet</b>
@@ -10,8 +10,11 @@
 </p>
 
 <p>
-Criada em meados de <b>2018</b>, no inicio da minha trajetória de programação. Foi atualizada a pouco tempo para página no github, mas sem atualizações relevantes em seu código.<br>
-<b>OBS</b>: no mobile, a API webspeech ainda tem alguns bugs.
+Script em <b>Py</b>. Para comparar <b>2</b> planilhas e retornar qual a linha os dados e o titulo das colunas diferente.
+</p>
+
+<p>
+Script in <b>Py</b> To compare <b>2</b> spreadsheets and return which row contains the data and the column titles are different.
 </p>
 
 ## Tecnologias usadas:
